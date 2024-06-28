@@ -28,7 +28,7 @@ class Product extends Model {
                     defaultValue: 0,
                 },
                 price: {
-                    type: DataTypes.FLOAT(5, 2),
+                    type: DataTypes.DECIMAL(5, 2),
                     allowNull: false,
                     defaultValue: 0,
                 },

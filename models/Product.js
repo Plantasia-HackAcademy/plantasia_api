@@ -11,7 +11,7 @@ class Product extends Model {
                     allowNull: false,
                 },
                 name: {
-                    type: DataTypes.TINYTEXT,
+                    type: DataTypes.TEXT("tiny"),
                     allowNull: false,
                 },
                 description: {
@@ -19,7 +19,7 @@ class Product extends Model {
                     allowNull: false,
                 },
                 image: {
-                    type: DataTypes.TINYTEXT,
+                    type: DataTypes.TEXT("tiny"),
                     allowNull: false,
                 },
                 stock: {
@@ -37,12 +37,18 @@ class Product extends Model {
                     allowNull: false,
                     defaultValue: false,
                 },
-                slug: {},
+                slug: {
+                    type: DataTypes.TEXT("tiny"),
+                    allowNull: false,
+                },
             },
             {
                 sequelize,
                 modelName: "product",
             },
         );
+        return Product;
     }
 }
+
+module.exports = Product;

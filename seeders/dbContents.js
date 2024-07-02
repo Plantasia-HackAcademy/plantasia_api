@@ -13,7 +13,7 @@ const dbContents = {
         {
             name: "Baby Frydek (Alocasia, Elephant Ears)",
             description:
-                "The Alocasia Frydek is also known as the Green Velvet Alocasia because of its velvety leaves. You can recognise her by her arrow-shaped foliage with beautiful bright white veins. Even as a baby it almost look like she is glowing! How cute that you can raise your own baby Alocasia Frydek? Witness every new leaf of this cute BabyPLNT and don’t forget to capture these moments, because before you know it, she’s big!",
+                "The Alocasia Frydek is also known as the Green Velvet Alocasia because of its velvety leaves. You can recognise her by her arrow-shaped foliage with beautiful bright white veins. Even as a baby it almost look like she is glowing! How cute that you can raise your own baby Alocasia Frydek? Witness every new leaf of this cute BabyPLNT and don't forget to capture these moments, because before you know it, she's big!",
             image: "bby-frydek.png",
             stock: 2,
             price: 8.75,
@@ -23,7 +23,7 @@ const dbContents = {
         {
             name: "Baby Jacklyn (Alocasia, Elephant Ears)",
             description:
-                "This Baby Alocasia is one with extraordinary leaf shape! This is the Alocasia Jacklyn and she is really something special. These amazing leaves are covered in dark green nerves, a real artwork from head to toe… uuh, leaves to roots. :) This plant is not known by many PLNTSlovers yet, since she was only discovered pretty recently. Don’t hesitate to add this rare beauty to your ever growing home!",
+                "This Baby Alocasia is one with extraordinary leaf shape! This is the Alocasia Jacklyn and she is really something special. These amazing leaves are covered in dark green nerves, a real artwork from head to toe… uuh, leaves to roots. :) This plant is not known by many PLNTSlovers yet, since she was only discovered pretty recently. Don't hesitate to add this rare beauty to your ever growing home!",
             image: "bby-jacklyn.png",
             stock: 3,
             price: 14.95,
@@ -43,7 +43,7 @@ const dbContents = {
         {
             name: "Baby Obliqua (Monstera)",
             description:
-                "The Obliqua is already the smallest species of the Monstera family, but this baby must be the tiniest one! Isn’t she the cutest? The Monstera Obliqua stands out with her extremely fenestrated leaves and frayed leaf edges. This unicorn plant is the one for rare plant collectors. No matter how big your collection will grow, this plant will take her moment of shine! Will this baby also shine within your collection? Buy Monstera Oblique online. ",
+                "The Obliqua is already the smallest species of the Monstera family, but this baby must be the tiniest one! Isn't she the cutest? The Monstera Obliqua stands out with her extremely fenestrated leaves and frayed leaf edges. This unicorn plant is the one for rare plant collectors. No matter how big your collection will grow, this plant will take her moment of shine! Will this baby also shine within your collection? Buy Monstera Oblique online. ",
             image: "bby-obliqua.png",
             stock: 3,
             price: 29.45,
@@ -53,7 +53,7 @@ const dbContents = {
         {
             name: "Baby Pink Princess (Philodendron)",
             description:
-                "Isn’t she pretty and cute! The Philodendron Pink Princess baby. She has beautiful dark green leaves, in the shape of arrows, that are decorated with an explosion of pink colour. Even the undersides of her leaves have an amazing red/coppery hue. She really is a living work of art. Luckily she is now also available as baby plant, so with your care and love, she will grow into a bigger and beautiful princess. Try to keep your eyes off her!",
+                "Isn't she pretty and cute! The Philodendron Pink Princess baby. She has beautiful dark green leaves, in the shape of arrows, that are decorated with an explosion of pink colour. Even the undersides of her leaves have an amazing red/coppery hue. She really is a living work of art. Luckily she is now also available as baby plant, so with your care and love, she will grow into a bigger and beautiful princess. Try to keep your eyes off her!",
             image: "bby-pink-princess.png",
             stock: 3,
             price: 12.45,
@@ -63,7 +63,7 @@ const dbContents = {
         {
             name: "Baby Rowleyanus (Senecio, String of pearls)",
             description:
-                "The baby Ceropegia Woodii is also known as the ‘string of hearts’ or the Chinese lantern plant. She’s a popular hanging plant which takes her name from the little heart-shaped leaves which hang down on thin stems. The Baby Ceropegia Woodii String of Hearts originates from Zimbabwe and South Africa. Here she grows between the rocks, hanging down in long strings. She’ll be just as happy in your warm home and will grow well, but be sure to put her in a pot on a higher cupboard or opt for a hanging pot, because her strands can grow up to 3 metres long!",
+                "The baby Ceropegia Woodii is also known as the ‘string of hearts' or the Chinese lantern plant. She's a popular hanging plant which takes her name from the little heart-shaped leaves which hang down on thin stems. The Baby Ceropegia Woodii String of Hearts originates from Zimbabwe and South Africa. Here she grows between the rocks, hanging down in long strings. She'll be just as happy in your warm home and will grow well, but be sure to put her in a pot on a higher cupboard or opt for a hanging pot, because her strands can grow up to 3 metres long!",
             image: "bby-rowleyanus.png",
             stock: 3,
             price: 6.95,
@@ -73,7 +73,7 @@ const dbContents = {
         {
             name: "Baby Thai Constellation (Monstera)",
             description:
-                "Here is the most beloved and rare Thai Constellation. To make her even more desirable, this is the cute baby form! She earns her name on her variegation that looks like a constellation. In contrast to most variegated plants, the Thai’s variegation is stable, yay! This is because she was especially produced for this, which also means that you will not be able to find this cutie anywhere in nature. All with all, a very special plant that would love a spot inside your urban jungle!",
+                "Here is the most beloved and rare Thai Constellation. To make her even more desirable, this is the cute baby form! She earns her name on her variegation that looks like a constellation. In contrast to most variegated plants, the Thai's variegation is stable, yay! This is because she was especially produced for this, which also means that you will not be able to find this cutie anywhere in nature. All with all, a very special plant that would love a spot inside your urban jungle!",
             image: "bby-thai-constellation.png",
             stock: 3,
             price: 44.95,
@@ -83,7 +83,7 @@ const dbContents = {
         {
             name: "Baby Warocqueanum (Anthurium, Flamingo flowers)",
             description:
-                "This small baby will grow into a magnificent plant with huge leaves! This is the Anthurium Warocqueanum and she is loved for her rich and dark foliage. With this baby you have the chance to admire her growth in every life stage, which is pretty fascinating. One glance at her and you will fall for her, so be careful! ;) Oh, you have peeked haven’t you? Don’t worry you can buy Anthurium Warocqueanum here online.",
+                "This small baby will grow into a magnificent plant with huge leaves! This is the Anthurium Warocqueanum and she is loved for her rich and dark foliage. With this baby you have the chance to admire her growth in every life stage, which is pretty fascinating. One glance at her and you will fall for her, so be careful! ;) Oh, you have peeked haven't you? Don't worry you can buy Anthurium Warocqueanum here online.",
             image: "bby-warocqueanum.png",
             stock: 3,
             price: 32.45,
@@ -93,7 +93,7 @@ const dbContents = {
         {
             name: "Baby Zebrina (Alocasia, Elephant Ears)",
             description:
-                "The baby Alocasia Zebrina is the princess of the plant savannah. With her beautiful zebra-striped stems she is a feast for the eyes. In nature her leaves grow so big that Alocasias are often called the ‘elephant's ear’ plant. For many animals in the South East Asian rainforest, the leaves of the Alocasia Zebrina, which can sometimes grow up to 100 centimetres in size, offer a safe hiding place. With your care she will grow into a beautiful houseplant and you’ll never get tired of the compliments!",
+                "The baby Alocasia Zebrina is the princess of the plant savannah. With her beautiful zebra-striped stems she is a feast for the eyes. In nature her leaves grow so big that Alocasias are often called the ‘elephant's ear' plant. For many animals in the South East Asian rainforest, the leaves of the Alocasia Zebrina, which can sometimes grow up to 100 centimetres in size, offer a safe hiding place. With your care she will grow into a beautiful houseplant and you'll never get tired of the compliments!",
             image: "bby-zebrina.png",
             stock: 3,
             price: 7.45,
@@ -113,7 +113,7 @@ const dbContents = {
         {
             name: "Charlotte (Schefflera, Umbrella tree)",
             description:
-                "The Schefflera Charlotte is often called an umbrella tree, and her variegated leaves make her an eye-catching addition to any plant collection. The characteristic parasol-shaped spreads of leaves are elongated and might remind you of a hand. An easygoing native of China and Taiwan, she will quickly turn out to be one of your favs, because she can make herself at home anywhere. One tip though- she’s happiest when you dust her regularly, because her big leaves catch a lot of dust.",
+                "The Schefflera Charlotte is often called an umbrella tree, and her variegated leaves make her an eye-catching addition to any plant collection. The characteristic parasol-shaped spreads of leaves are elongated and might remind you of a hand. An easygoing native of China and Taiwan, she will quickly turn out to be one of your favs, because she can make herself at home anywhere. One tip though- she's happiest when you dust her regularly, because her big leaves catch a lot of dust.",
             image: "charlotte.png",
             stock: 3,
             price: 12.95,
@@ -122,8 +122,9 @@ const dbContents = {
         },
         {
             name: "Coconut (Palm, Cocos nucifera)",
-            description: "Description3",
-            image: "The Cocos Nucifera, better known as “Coconut Palm”, is a green houseplant that is part of, you guessed it, the palm family! This tropical beauty is extra special since the plant grows directly from a coconut. Despite not having many leaves, the Coconut Palm still scores well at filtering the air. This is because palms are naturally very adept air filterers. Will this Coconut Palm filter the air inside your urban jungle? Order Coconut Palm online.",
+            description:
+                "The Cocos Nucifera, better known as “Coconut Palm”, is a green houseplant that is part of, you guessed it, the palm family! This tropical beauty is extra special since the plant grows directly from a coconut. Despite not having many leaves, the Coconut Palm still scores well at filtering the air. This is because palms are naturally very adept air filterers. Will this Coconut Palm filter the air inside your urban jungle? Order Coconut Palm online.",
+            image: "coconut.png",
             stock: 3,
             price: 22.95,
             trending: true,
@@ -142,7 +143,7 @@ const dbContents = {
         {
             name: "Dragon Jade (Dischidia, Dischidia Nummularifolia)",
             description:
-                "This beauty is known for its stacked foliage which looks like it came right out of a fairytale! This couldn’t be any other plant than the Dischidia Dragon Jade, which also hints to that enchanting look of hers! Its luscious, cascading leaves create a dreamy vibe, making every day feel like a stroll through a magical woodland. The vibrant green hues and intricate patterns make it a total eye-catcher—seriously, it's like having a piece of nature's artwork right in your room. Are you adding this little piece of fairytale to your urban jungle? Buy Dischidia Nummularifolia online.",
+                "This beauty is known for its stacked foliage which looks like it came right out of a fairytale! This couldn't be any other plant than the Dischidia Dragon Jade, which also hints to that enchanting look of hers! Its luscious, cascading leaves create a dreamy vibe, making every day feel like a stroll through a magical woodland. The vibrant green hues and intricate patterns make it a total eye-catcher—seriously, it's like having a piece of nature's artwork right in your room. Are you adding this little piece of fairytale to your urban jungle? Buy Dischidia Nummularifolia online.",
             image: "dragon-jade.png",
             stock: 3,
             price: 13.95,
@@ -162,7 +163,7 @@ const dbContents = {
         {
             name: "Lutescens (Dypsis, Golden Cane Palm)",
             description:
-                "Are you a PLNTSlover that fancies something big and bold? This Dypsis Lutescens is everything you are longing for! This plant consists of multiple ‘palms’ inside one pot, together they form this massive plant! She will definitely brighten up your house with her bright green pinnate leaves. You might have heard about this plant under the name ‘Butterfly Palm’, which we think is a very fitting nickname for this stunner!",
+                "Are you a PLNTSlover that fancies something big and bold? This Dypsis Lutescens is everything you are longing for! This plant consists of multiple ‘palms' inside one pot, together they form this massive plant! She will definitely brighten up your house with her bright green pinnate leaves. You might have heard about this plant under the name ‘Butterfly Palm', which we think is a very fitting nickname for this stunner!",
             image: "lutescens.png",
             stock: 3,
             price: 113.45,
@@ -182,7 +183,7 @@ const dbContents = {
         {
             name: "Maculata (Begonia, Polka Dot)",
             description:
-                "The Begonia Maculata is also known as the ‘Polka dot’ Begonia or ‘Forel’ Begonia. Its leaves are olive green and freckled with silvery-white spots on its upper surface. The reverse side is known for its eye-catching red-Bordeaux color. We advise you to place the Begonia Maculata in a spot with plenty of light and warmth. Prevent dehydration by watering the baby plant two times a week. Is this dotted cutie the one you like? Buy Begonia Maculata online.",
+                "The Begonia Maculata is also known as the ‘Polka dot' Begonia or ‘Forel' Begonia. Its leaves are olive green and freckled with silvery-white spots on its upper surface. The reverse side is known for its eye-catching red-Bordeaux color. We advise you to place the Begonia Maculata in a spot with plenty of light and warmth. Prevent dehydration by watering the baby plant two times a week. Is this dotted cutie the one you like? Buy Begonia Maculata online.",
             image: "maculata.png",
             stock: 3,
             price: 15.45,
@@ -222,7 +223,7 @@ const dbContents = {
         {
             name: "Pink Dragon (Alocasia, Elephant Ear)",
             description:
-                "The Alocasia Pink Dragon is such a special plant and, contrary to what her name might suggest, she certainly does not have a dragon-like temper. This ultimate eye-catcher stands out with its pink stalks and metallic silver leaves. Once you see the Alocasia Pink Dragon you’ll understand why it demands a special place in your living room!",
+                "The Alocasia Pink Dragon is such a special plant and, contrary to what her name might suggest, she certainly does not have a dragon-like temper. This ultimate eye-catcher stands out with its pink stalks and metallic silver leaves. Once you see the Alocasia Pink Dragon you'll understand why it demands a special place in your living room!",
             image: "pink-dragon.png",
             stock: 3,
             price: 17.45,
@@ -252,7 +253,7 @@ const dbContents = {
         {
             name: "Red Secret (Alocasia, Mirror plant)",
             description:
-                "A beautiful room plant with large leaves. The Alocasia is also called Elephant’s ear. Really an urban jungle plant that you will rarely encounter!",
+                "A beautiful room plant with large leaves. The Alocasia is also called Elephant's ear. Really an urban jungle plant that you will rarely encounter!",
             image: "red-secret.png",
             stock: 3,
             price: 15.45,
@@ -262,7 +263,7 @@ const dbContents = {
         {
             name: "Regal Shield (Alocasia, Elephant Ear)",
             description:
-                "The Alocasia Regal Shields is part of the Arum family and originates from Asia. It is also known as the Elephant Ear Regal Shields, and upon looking at it’s beautiful large, dark green leaves it is easy to understand why it earned itself the nickname of Shield. Don’t forget to take a look at the bottom of its leaves as well, these are a gorgeous shade of deep purple! Will this be your new Alocasia? Buy Alocasia Regal Shield online. ",
+                "The Alocasia Regal Shields is part of the Arum family and originates from Asia. It is also known as the Elephant Ear Regal Shields, and upon looking at it's beautiful large, dark green leaves it is easy to understand why it earned itself the nickname of Shield. Don't forget to take a look at the bottom of its leaves as well, these are a gorgeous shade of deep purple! Will this be your new Alocasia? Buy Alocasia Regal Shield online. ",
             image: "regal-shield.png",
             stock: 3,
             price: 38.45,
@@ -412,7 +413,7 @@ const dbContents = {
         {
             name: "Amy Basket Jute Ø 21 cm",
             description:
-                "The Amy basket is for everyone who likes to add warm, natural tones in their house. It is made of braided jute and can function as a home for many plant sizes (M, L, XL). The natural colours of this cozy basket make your green friend stand out even more. The plastic, transparent lining inside makes sure that the basket doesn’t leak, so this cutie can immediately claim its place on any kind of surface. *Recommended is to choose a plant with a nursery pot that is at least 1cm smaller than the diameter of the pot.",
+                "The Amy basket is for everyone who likes to add warm, natural tones in their house. It is made of braided jute and can function as a home for many plant sizes (M, L, XL). The natural colours of this cozy basket make your green friend stand out even more. The plastic, transparent lining inside makes sure that the basket doesn't leak, so this cutie can immediately claim its place on any kind of surface. *Recommended is to choose a plant with a nursery pot that is at least 1cm smaller than the diameter of the pot.",
             image: "amy-basket-jute.png",
             stock: 3,
             price: 16.45,
@@ -452,7 +453,7 @@ const dbContents = {
         {
             name: "Baby Orange Terracotta Pot Ø 7 cm",
             description:
-                "Terracotta is a real classic but can be fragile. The image pictured is indicative, but please note that the pot you receive can contain small imperfections. Let’s say they are 'perfectly imperfect' and unique in their very own way!",
+                "Terracotta is a real classic but can be fragile. The image pictured is indicative, but please note that the pot you receive can contain small imperfections. Let's say they are 'perfectly imperfect' and unique in their very own way!",
             image: "baby-orange-terracotta-pot.png",
             stock: 3,
             price: 3.95,
@@ -462,7 +463,7 @@ const dbContents = {
         {
             name: "Orange Terracotta Pot Ø 20 cm",
             description:
-                "Terracotta is a real classic but can be fragile. The image pictured is indicative, but please note that the pot you receive can contain small imperfections. Let’s say they are 'perfectly imperfect' and unique in their very own way!",
+                "Terracotta is a real classic but can be fragile. The image pictured is indicative, but please note that the pot you receive can contain small imperfections. Let's say they are 'perfectly imperfect' and unique in their very own way!",
             image: "orange-terracotta-pot-large.png",
             stock: 3,
             price: 10.95,
@@ -472,7 +473,7 @@ const dbContents = {
         {
             name: "Orange Terracotta Pot Ø 14 cm",
             description:
-                "Terracotta is a real classic but can be fragile. The image pictured is indicative, but please note that the pot you receive can contain small imperfections. Let’s say they are 'perfectly imperfect' and unique in their very own way!",
+                "Terracotta is a real classic but can be fragile. The image pictured is indicative, but please note that the pot you receive can contain small imperfections. Let's say they are 'perfectly imperfect' and unique in their very own way!",
             image: "orange-terracotta-pot-medium.png",
             stock: 3,
             price: 7.95,
@@ -482,7 +483,7 @@ const dbContents = {
         {
             name: "Grey Terracotta Pot Ø 14 cm",
             description:
-                "Terracotta is a real classic but can be fragile. The image pictured is indicative, but please note that the pot you receive can contain small imperfections. Let’s say they are 'perfectly imperfect' and unique in their very own way!",
+                "Terracotta is a real classic but can be fragile. The image pictured is indicative, but please note that the pot you receive can contain small imperfections. Let's say they are 'perfectly imperfect' and unique in their very own way!",
             image: "gery-terracotta-pot-medium.png",
             stock: 3,
             price: 9.95,
@@ -492,7 +493,7 @@ const dbContents = {
         {
             name: "Grey Terracotta Pot Ø 20 cm",
             description:
-                "Terracotta is a real classic but can be fragile. The image pictured is indicative, but please note that the pot you receive can contain small imperfections. Let’s say they are 'perfectly imperfect' and unique in their very own way!",
+                "Terracotta is a real classic but can be fragile. The image pictured is indicative, but please note that the pot you receive can contain small imperfections. Let's say they are 'perfectly imperfect' and unique in their very own way!",
             image: "grey-terracotta-pot-large.png",
             stock: 3,
             price: 10.95,
@@ -552,7 +553,7 @@ const dbContents = {
         {
             name: "Haws Watering Can Copper",
             description:
-                "It’s time to water your PLNTS in style! With the Haws Watering Can (1L) you will never forget to water your beauty’s again. The watering can is so pretty that you feel the need to show and use it! It has a classic watering can shape, available in 4 colours: green, grey, dark grey and copper. The can is easy to store or also to use as decoration.",
+                "It's time to water your PLNTS in style! With the Haws Watering Can (1L) you will never forget to water your beauty's again. The watering can is so pretty that you feel the need to show and use it! It has a classic watering can shape, available in 4 colours: green, grey, dark grey and copper. The can is easy to store or also to use as decoration.",
             image: "haw-watering-can-copper.png",
             stock: 3,
             price: 100.45,
@@ -562,7 +563,7 @@ const dbContents = {
         {
             name: "Elho Plunge Watering Can Black",
             description:
-                "The Plunge Watering Can will bring you some extra joy while watering your plants. Because of its unique, stylish appearance, it will also be a nice decoration piece. The black plastic watering can has a slim neck and a big filling opening, which makes it comfortable to hold. With a capacity of 1.7L will Plunge definitely be of great use when you’re parent to multiple plants.",
+                "The Plunge Watering Can will bring you some extra joy while watering your plants. Because of its unique, stylish appearance, it will also be a nice decoration piece. The black plastic watering can has a slim neck and a big filling opening, which makes it comfortable to hold. With a capacity of 1.7L will Plunge definitely be of great use when you're parent to multiple plants.",
             image: "elho-plunge-watering-can-black.png",
             stock: 3,
             price: 14.45,
@@ -592,7 +593,7 @@ const dbContents = {
         {
             name: "Sphagnum Moss",
             description:
-                "Sphagnum Moss improves the structure of potting soil. This macho can hold up to 20 times its own weight of water! This keeps the potting soil always moist, which is especially appreciated by many tropical plants. If you have any moss left over, let’s be creative! Because of the flexibility you can easily use it to create your own (hanging) basket or moss pole! The bags are around ~450 grams.",
+                "Sphagnum Moss improves the structure of potting soil. This macho can hold up to 20 times its own weight of water! This keeps the potting soil always moist, which is especially appreciated by many tropical plants. If you have any moss left over, let's be creative! Because of the flexibility you can easily use it to create your own (hanging) basket or moss pole! The bags are around ~450 grams.",
             image: "sphagnum-moss.png",
             stock: 3,
             price: 5.95,
@@ -652,7 +653,7 @@ const dbContents = {
         {
             name: "Active Charcoal",
             description:
-                "Active charcoal is perfect for when you want to plant your new friend in a pot without any drainage holes. Adding a layer of active charcoal to the bottom, underneath the soil, will help to protect the plant from overwatering. It even absorbs toxics to protect the soil and roots from bacteria’s and fungal. Repel several insects is its other super power, which makes him a true life saver! This also makes active charcoal perfect if you want to create your own terrarium.",
+                "Active charcoal is perfect for when you want to plant your new friend in a pot without any drainage holes. Adding a layer of active charcoal to the bottom, underneath the soil, will help to protect the plant from overwatering. It even absorbs toxics to protect the soil and roots from bacteria's and fungal. Repel several insects is its other super power, which makes him a true life saver! This also makes active charcoal perfect if you want to create your own terrarium.",
             image: "active-charcoal.png",
             stock: 3,
             price: 9.45,
@@ -662,7 +663,7 @@ const dbContents = {
         {
             name: "Living Moss",
             description:
-                "Living Moss is the perfect way to bring a little wild into your home. It’s a big fan of moist environments and therefore a perfect base for a terrarium. Living moss is also great for other creative purposes, for example making your own kokedama ball. To keep that pretty green colour, filtered water will do the magic. Otherwise there might be a chance that it turns brown.",
+                "Living Moss is the perfect way to bring a little wild into your home. It's a big fan of moist environments and therefore a perfect base for a terrarium. Living moss is also great for other creative purposes, for example making your own kokedama ball. To keep that pretty green colour, filtered water will do the magic. Otherwise there might be a chance that it turns brown.",
             image: "living-moss.png",
             stock: 3,
             price: 4.95,
@@ -712,7 +713,7 @@ const dbContents = {
         {
             name: "Mourning Fly Catcher Yellow",
             description:
-                "Do you also regularly have flying friends coming over and settle down on your green friends? We understand that everyone would like to live in their own jungle, but fungus gnats are in fact mosquitoes that can damage your plant! The Fungus Gnats Catcher ensures that these insects won’t be able to lay eggs in the soil of your plant anymore. The package contains 10 fly traps, that are made of recycled plastic and have to be placed in the soil of your effected plant. The traps are covered with foil on both sides. Once you remove the foil, there will be a layer of glue where the flies will stick on to. This way, the pests can no longer reproduce.",
+                "Do you also regularly have flying friends coming over and settle down on your green friends? We understand that everyone would like to live in their own jungle, but fungus gnats are in fact mosquitoes that can damage your plant! The Fungus Gnats Catcher ensures that these insects won't be able to lay eggs in the soil of your plant anymore. The package contains 10 fly traps, that are made of recycled plastic and have to be placed in the soil of your effected plant. The traps are covered with foil on both sides. Once you remove the foil, there will be a layer of glue where the flies will stick on to. This way, the pests can no longer reproduce.",
             image: "mourning-fly-catcher-yellow.png",
             stock: 3,
             price: 7.95,
@@ -802,7 +803,7 @@ const dbContents = {
         {
             name: "Edward Pruning Shears Silver",
             description:
-                "Edward pruning shears are the ideal scissors for cutting off a small branch, dry leaf or flower. Normal pruning shears are often too big for this and you might accidentally cut off too much or the wrong leaf, which is of course a shame! Edward is razor-sharp, super small, about 11 cm and therefor easy to use! Make sure that you always disinfect the blades of the scissors before use. This prevents you from transferring plant diseases to other plants by means of the scissors. Clean the scissors after use with warm water and pat the blades dry, this way you can be sure that your blades won’t rust and will last a long time! With this little one you can easily do the fine, precise work so that the rest of your plant gets all the energy and nutrition she needs!",
+                "Edward pruning shears are the ideal scissors for cutting off a small branch, dry leaf or flower. Normal pruning shears are often too big for this and you might accidentally cut off too much or the wrong leaf, which is of course a shame! Edward is razor-sharp, super small, about 11 cm and therefor easy to use! Make sure that you always disinfect the blades of the scissors before use. This prevents you from transferring plant diseases to other plants by means of the scissors. Clean the scissors after use with warm water and pat the blades dry, this way you can be sure that your blades won't rust and will last a long time! With this little one you can easily do the fine, precise work so that the rest of your plant gets all the energy and nutrition she needs!",
             image: "edward-pruning-shears-silver.png",
             stock: 3,
             price: 7.95,
@@ -972,7 +973,7 @@ const dbContents = {
         {
             name: "Elho Leah Grow Light",
             description:
-                "And then, there was light! Your green babies obviously need light to grow. During spring and summer they receive plenty of light, but to help your plants also grow in winter we recommend to recreate light. Leah the adjustable Grow Light is great for these colder and darker days. Nevertheless she can also be used in darker corners of your house. You can easily place her in the soil of your plant and the best about Leah is that the stick is extendable from 36 cm up to 100 cm! So your grow light grows together with your beauty, how great is that?! She shines a magenta colour, which stimulates the growth of leaves and buds. This light has an automatic day/night cycle to ensure that your plants will grow in a natural way. It can’t be any easier, grow baby grow!",
+                "And then, there was light! Your green babies obviously need light to grow. During spring and summer they receive plenty of light, but to help your plants also grow in winter we recommend to recreate light. Leah the adjustable Grow Light is great for these colder and darker days. Nevertheless she can also be used in darker corners of your house. You can easily place her in the soil of your plant and the best about Leah is that the stick is extendable from 36 cm up to 100 cm! So your grow light grows together with your beauty, how great is that?! She shines a magenta colour, which stimulates the growth of leaves and buds. This light has an automatic day/night cycle to ensure that your plants will grow in a natural way. It can't be any easier, grow baby grow!",
             image: "elho-leah-grow-light.png",
             stock: 3,
             price: 62.95,
@@ -1072,7 +1073,7 @@ const dbContents = {
         {
             name: "Clippy Wall Mounting Kit",
             description:
-                "Clippy might come in handy for when your plants already have taken over all spaces in your home. Or when you just want to pimp that boring, bare wall. In this kit you’ll find 5 ‘Clippy’s. Screw these onto your wall and simply slide your terracotta pot into. To ensure that the water doesn’t leak, there are also 5 corks that fit into the drainage hole. The clips are adjustable for hanging pots of different sizes",
+                "Clippy might come in handy for when your plants already have taken over all spaces in your home. Or when you just want to pimp that boring, bare wall. In this kit you'll find 5 ‘Clippy's. Screw these onto your wall and simply slide your terracotta pot into. To ensure that the water doesn't leak, there are also 5 corks that fit into the drainage hole. The clips are adjustable for hanging pots of different sizes",
             image: "clippy-wall-mounting-kit.png",
             stock: 3,
             price: 19.45,

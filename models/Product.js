@@ -23,7 +23,7 @@ class Product extends Model {
                     allowNull: false,
                 },
                 stock: {
-                    type: DataTypes.TINYINT,
+                    type: DataTypes.INTEGER,
                     allowNull: false,
                     defaultValue: 0,
                 },
